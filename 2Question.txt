@@ -1,0 +1,164 @@
+[2nd Question]
+? Two screens divided equally shown all the time
+? Two screens should Scroll Separately.
+
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<head>
+<style>
+#left {
+    float:left;
+    display:block;
+    overflow:auto;
+    height:470px;
+    width:50%;
+    background-color:grey;
+}
+
+#right {
+    float:left;
+    display:block;
+    overflow:auto;
+    height:470px;
+    width:50%;
+    background-color:#B0D1E1;
+}
+#header {
+    border:1px solid black;
+    background-color:grey;
+}
+#footer {
+    border:1px solid black;
+    height:70px;
+    background-color:grey;
+    clear:both;
+}
+
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>URL Login </h1>
+</div>
+
+<section class="container">
+  <div id="left">
+<h2> Login</h2>
+    <article>
+  <form>   
+    <div class="container">
+    <label><b>Username</b></label>
+    <input type="text"  name="uname" required></br>
+
+    <label><b>Password</b></label>
+    <input type="password"  name="psw" required>
+        
+    <button type="submit">Login</button>
+</form>
+
+      <p>Weekends don't count unless you spend them doing something completely pointless.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.</p>
+    </article>
+  </div>
+  <div id="right">
+<h2> Login Help</h2>
+    <article>
+      <h1>Right Half</h1>
+      <p>If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+If your knees aren't green by the end of the day, you ought to seriously re-examine your life.
+</p>
+    </article>
+  </div>
+</section>
+
+<div id="footer">
+
+</div>
+
+</body>
+</html>
